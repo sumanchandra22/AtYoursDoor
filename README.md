@@ -4,7 +4,7 @@
 <br>
 • It connects all the vendors and shops near their location. 
 <br>
-• Provides benefits to customers as well as sellers. \n
+• Provides benefits to customers as well as sellers.
 
 
 
